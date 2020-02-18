@@ -6,13 +6,14 @@ Consists of two parts:
 (a) the first experiment with a given sequence of positions (states) of the visual stimulus
 - can be repeated as many times as needed
 
-(b) the second experiment, which constructs a new sequence from THE one given in (a) via a Markov stochastic process
+(b) the second experiment, which constructs a new sequence from the one given in (a) via a Markov stochastic process
 - the new sequence obeys two restrictions: 
 - (1) each state (position) appears the same number of times as in the previous experiment
 - (2) the probability distribution to construct the new one, is inherited from the first experiment
 
 
 The project is inspired from the following study:
+
 Lum, J., Kidd, E., Davis, S., Conti-Ramsden, G., (2010). "Longitudinal study of declarative and procedural memory in primary school-aged children",
 Austrelian Journal of Psychology, 62(3), 139-148.
 
