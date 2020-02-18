@@ -22,7 +22,7 @@ DOI:
 The project is inspired from the following study:
 
 Lum, J., Kidd, E., Davis, S., Conti-Ramsden, G., (2010). "Longitudinal study of declarative and procedural memory in primary school-aged children",
-Austrelian Journal of Psychology, 62(3), 139-148.
+Australian Journal of Psychology, 62(3), 139-148.
 
 
 How to use:
