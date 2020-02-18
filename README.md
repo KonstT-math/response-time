@@ -11,6 +11,13 @@ Consists of two parts:
 - (1) each state (position) appears the same number of times as in the previous experiment
 - (2) the probability distribution to construct the new one, is inherited from the first experiment
 
+To be cited as:
+
+DOI: 
+10.5281/zenodo.3673881
+
+
+
 
 The project is inspired from the following study:
 
