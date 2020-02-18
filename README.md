@@ -1,0 +1,2 @@
+# response-time
+An application used for reaction time measurement, intended mainly for social science experiments. A visual stimulus appears on a window at one of four positions: 0-top, 1-right, 2-bottom, 3-left. Then the user is to press one of the arrow keys on the keyboard, in correspondence to the position of the image. The reaction time and the response result (true or false) is measured by the program, which is printed on a text file.
